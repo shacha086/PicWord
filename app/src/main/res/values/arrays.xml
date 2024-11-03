@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rotate_options">
+        <item>不旋转</item>
+        <item>自动旋转至横向</item>
+        <item>自动旋转至竖向</item>
+    </string-array>
+</resources>
